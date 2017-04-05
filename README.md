@@ -1,3 +1,5 @@
+![Alt text](line_chart.gif?raw=true "D3 Line Chart")
+
 # D3Angular
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
